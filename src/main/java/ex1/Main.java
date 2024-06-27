@@ -1,6 +1,16 @@
 package ex1;
 
+/**
+ * La classe Main est le point d'entrée de l'application.
+ * Elle teste l'implémentation du pattern Singleton en obtenant
+ * plusieurs références et en vérifiant qu'elles pointent vers la même instance.
+ */
 public class Main {
+    /**
+     * La méthode principale qui exécute le programme.
+     *
+     * @param args les arguments de la ligne de commande (non utilisés)
+     */
     public static void main(String[] args) {
 
         // Obtenir l'instance du singleton
