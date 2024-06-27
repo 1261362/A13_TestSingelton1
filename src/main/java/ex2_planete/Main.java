@@ -13,7 +13,7 @@ public class Main {
         System.out.println(Satellite.getInstance());
 
 
-        System.out.println(lune.orbit(terre));
+
 
     }
 }
