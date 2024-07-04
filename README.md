@@ -1,4 +1,5 @@
-```mermaid classDiagram
+```mermaid 
+classDiagram
 direction BT
 class AgressiveBehaviour {
   + AgressiveBehaviour() 
