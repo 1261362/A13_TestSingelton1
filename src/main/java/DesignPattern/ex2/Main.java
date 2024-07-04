@@ -7,7 +7,7 @@ public class Main {
     Robot r2 = new Robot("R2");
     Robot r3 = new Robot("R3");
     Robot r4 = new Robot(r1);
-    Robot r5 = r2;
+
         System.out.println("Début du programme");
         r1.setBehaviour(new AgressiveBehaviour());
         r2.setBehaviour(new DefensiveBehaviour());
