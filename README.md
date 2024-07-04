@@ -1,4 +1,4 @@
-classDiagram
+mermaid ''' classDiagram
 direction BT
 class AgressiveBehaviour {
   + AgressiveBehaviour() 
@@ -34,4 +34,5 @@ class Robot {
 
 AgressiveBehaviour  ..>  IBehaviour 
 DefensiveBehaviour  ..>  IBehaviour 
-NormalBehaviour  ..>  IBehaviour 
+NormalBehaviour  ..>  IBehaviour
+'''
