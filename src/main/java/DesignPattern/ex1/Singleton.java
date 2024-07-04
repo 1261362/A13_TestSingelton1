@@ -1,4 +1,4 @@
-package ex1;
+package DesignPattern.ex1;
 
 /**
  * La classe Singleton implémente le pattern Singleton,

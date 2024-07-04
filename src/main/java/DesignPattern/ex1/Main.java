@@ -1,4 +1,4 @@
-package ex1;
+package DesignPattern.ex1;
 
 /**
  * La classe Main est le point d'entrée de l'application.
