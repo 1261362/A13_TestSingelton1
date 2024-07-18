@@ -1,4 +1,4 @@
-package DesignPattern.ex2;
+package DesignPattern.ex2_Robot;
 
 public class Main {
     public static void main(String[] args) {
