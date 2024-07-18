@@ -1,4 +1,4 @@
-package DesignPattern.ex_Grasp;
+package DesignPattern.ex5_Grasp;
 
 import java.util.ArrayList;
 import java.util.List;
